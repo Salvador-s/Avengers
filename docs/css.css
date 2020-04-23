@@ -1,0 +1,31 @@
+body{
+		        font-family: Times New Roman;
+			font-size: 16pt;
+			color:white;			
+			background-image: url(horror.jpg);
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+    }		
+
+p{
+			font-size: 30pt;
+                        color:red;
+                        background-color:white;
+			text-align: center;
+                        padding-left: 150px;
+		        padding-right: 150px;
+			
+}
+
+#parr1{
+
+			text-transform: capitalize;    
+                        font-size: 20pt;    
+                        color:white;          
+                        background-color:transparent;
+}
+
+.estilo1{
+			color: blue;
+			background-color: yellow;
+}
